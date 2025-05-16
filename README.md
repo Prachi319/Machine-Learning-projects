@@ -1,4 +1,3 @@
-# Machine-Learning-project (rock vs. mine prediction)
 # 🔍 Rock vs. Mine Prediction using Logistic Regression
 
 This project focuses on building a **machine learning model** to classify sonar signals received by a submarine as either **rock** or **mine**. The model is trained using the **Logistic Regression** algorithm — a simple yet powerful technique for binary classification.
